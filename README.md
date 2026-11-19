@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thadd-y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 ## Hash Table
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thadd-y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -37,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thadd-y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
