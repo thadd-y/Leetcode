@@ -63,4 +63,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/thadd-y/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/thadd-y/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0601-human-traffic-of-stadium](https://github.com/thadd-y/Leetcode/tree/main/0601-human-traffic-of-stadium/) | Hard |
+| [1934-confirmation-rate](https://github.com/thadd-y/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
