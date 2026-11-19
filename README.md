@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -19,4 +21,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 <!---LeetCode Topics End-->
