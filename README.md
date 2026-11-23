@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thadd-y/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/thadd-y/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thadd-y/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/thadd-y/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0185-department-top-three-salaries](https://github.com/thadd-y/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0601-human-traffic-of-stadium](https://github.com/thadd-y/Leetcode/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [1934-confirmation-rate](https://github.com/thadd-y/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/thadd-y/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
