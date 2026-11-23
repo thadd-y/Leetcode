@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thadd-y/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/thadd-y/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0087-scramble-string](https://github.com/thadd-y/Leetcode/tree/main/0087-scramble-string/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thadd-y/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/thadd-y/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0087-scramble-string](https://github.com/thadd-y/Leetcode/tree/main/0087-scramble-string/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
