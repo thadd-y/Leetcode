@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thadd-y/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0037-sudoku-solver](https://github.com/thadd-y/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/thadd-y/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/thadd-y/Leetcode/tree/main/2353-design-a-food-rating-system/) | Medium |
 | [2354-number-of-excellent-pairs](https://github.com/thadd-y/Leetcode/tree/main/2354-number-of-excellent-pairs/) | Hard |
 ## Binary Search
@@ -70,4 +72,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/thadd-y/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/thadd-y/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/thadd-y/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/thadd-y/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/thadd-y/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
